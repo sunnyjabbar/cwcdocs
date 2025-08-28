@@ -1,1 +1,2 @@
-[Markdown Guide](https://www.markdownguide.org/)
+- [Markdown Guide](https://www.markdownguide.org/)
+- [Winget]([Use WinGet to install and manage applications | Microsoft Learn](https://learn.microsoft.com/en-us/windows/package-manager/winget/))

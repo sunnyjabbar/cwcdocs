@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-setup.md",
+                "file": "git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "computer-setup"
+              "title": "git"
             }
           }
         ],
@@ -228,12 +228,12 @@
   },
   "active": "6938f1cd8ca1cd58",
   "lastOpenFiles": [
-    "git.md",
     "python.md",
-    "README.md",
+    "git.md",
+    "computer-setup.md",
     "useful-websites.md",
     "vscode.md",
-    "computer-setup.md",
+    "README.md",
     "Untitled.canvas"
   ]
 }
