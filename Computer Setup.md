@@ -1,4 +1,4 @@
-Install [Python 3.12] (https://www.python.org/downloads/release/python-31211/)
+Install [Python 3.12](https://www.python.org/downloads/release/python-31211/)
 
 Install Note pad++
 https://notepad-plus-plus.org/downloads/v8.8.5/
