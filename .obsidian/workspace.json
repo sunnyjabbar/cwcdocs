@@ -107,7 +107,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "faqs.md",
+                "file": "computer-setup.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -122,11 +122,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "faqs"
+              "title": "computer-setup"
+            }
+          },
+          {
+            "id": "4954eeedf1503734",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "markdown.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "markdown"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -285,16 +309,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "31c4d4e431b6e7bb",
+  "active": "4954eeedf1503734",
   "lastOpenFiles": [
-    "[Use.md",
-    "faqs.md",
+    "computer-setup.md",
+    "markdown.md",
+    "README.md",
     "useful-websites.md",
+    "faqs.md",
+    "[Use.md",
     "vscode.md",
     "git.md",
     "python.md",
-    "computer-setup.md",
-    "README.md",
     "Untitled.canvas"
   ]
 }
