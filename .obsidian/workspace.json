@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git.md",
+                "file": "git1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git"
+              "title": "git1"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-setup.md",
+                "file": "computer-setup1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "computer-setup"
+              "title": "computer-setup1"
             }
           },
           {
@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "vscode1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "vscode1"
             }
           }
         ],
@@ -228,12 +228,12 @@
   },
   "active": "6938f1cd8ca1cd58",
   "lastOpenFiles": [
-    "python.md",
-    "git.md",
-    "computer-setup.md",
+    "useful-websites1.md",
     "README.md",
-    "useful-websites.md",
-    "vscode.md",
+    "python1.md",
+    "git1.md",
+    "computer-setup1.md",
+    "vscode1.md",
     "Untitled.canvas"
   ]
 }
