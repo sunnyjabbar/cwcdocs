@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Install",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +131,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -226,7 +227,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "6938f1cd8ca1cd58",
+  "active": "6d73905e4f9dfa95",
   "lastOpenFiles": [
     "Git.md",
     "Useful Websites.md",
