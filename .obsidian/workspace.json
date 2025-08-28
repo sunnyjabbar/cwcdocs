@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Setup.md",
+                "file": "Computer-Setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Computer Setup"
+              "title": "Computer-Setup"
             }
           },
           {
@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Setup.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Computer Setup"
+              "title": "README"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Install",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,8 +131,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -227,13 +226,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "6d73905e4f9dfa95",
+  "active": "6938f1cd8ca1cd58",
   "lastOpenFiles": [
     "Git.md",
-    "Useful Websites.md",
-    "Computer Setup.md",
-    "Python.md",
+    "Computer-Setup.md",
     "VS CODE.md",
-    "README.md"
+    "Useful-Websites.md",
+    "README.md",
+    "Python.md",
+    "Untitled.canvas"
   ]
 }

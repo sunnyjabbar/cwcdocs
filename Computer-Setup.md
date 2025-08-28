@@ -4,9 +4,6 @@
 - [Anaconda](https://www.anaconda.com/download)
 - [Opera](https://www.opera.com/computer/thanks?ni=eapgx&os=windows)
 - [VS Code](https://code.visualstudio.com/download)
-```bash
-winget install -e --id Microsoft.VisualStudioCode
-```
 - [Git](https://central.github.com/deployments/desktop/desktop/latest/win32)
-Git configuration
+
 
