@@ -155,7 +155,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "winget.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -170,7 +170,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "winget"
+              "title": "README"
             }
           }
         ],
@@ -335,15 +335,15 @@
   },
   "active": "1f306dee46d05773",
   "lastOpenFiles": [
+    "computer-setup.md",
+    "README.md",
+    "winget.md",
     "markdown.md",
     "git.md",
-    "winget.md",
     "[Use.md",
     "useful-websites.md",
-    "README.md",
     "faqs.md",
     "python.md",
-    "computer-setup.md",
     "vscode.md",
     "Untitled.canvas"
   ]

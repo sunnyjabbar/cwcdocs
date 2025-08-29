@@ -8,5 +8,6 @@
 - [Python](python.md)
 - [Useful Websites](useful-websites.md)
 - [VS Code](vscode.md)
+- [Windows Package Manager](./winget.md)
 
 
