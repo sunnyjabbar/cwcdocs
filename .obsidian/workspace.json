@@ -155,7 +155,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "faqs.md",
+                "file": "useful-websites.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -170,7 +170,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "faqs"
+              "title": "useful-websites"
             }
           }
         ],
@@ -335,8 +335,10 @@
   },
   "active": "1f306dee46d05773",
   "lastOpenFiles": [
-    "git.md",
+    "[Use.md",
+    "useful-websites.md",
     "faqs.md",
+    "git.md",
     "python.md",
     "vscode.md",
     "README.md",
@@ -345,8 +347,6 @@
     "computer-setup.md",
     "winget.md",
     "markdown.md",
-    "[Use.md",
-    "useful-websites.md",
     "Untitled.canvas"
   ]
 }
