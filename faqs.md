@@ -1,4 +1,4 @@
-### What is a Markup Language?
+## What is a Markup Language?
 
 A **markup language** is a system for formatting and arranging the elements in a document using tags. These tags are used to define the structure and presentation of the document, making it easier for both humans and computer programs to understand and process the content.
 Common Markup Languages
@@ -29,7 +29,7 @@ VS Code offers a range of features that make it a powerful tool for developers:
     
 - **Customization**: Users can customize the editor's appearance and behavior through settings, themes, and keyboard shortcuts. Profiles allow users to create and switch between different sets of customizations.
 
-### What is Git?
+## What is Git?
 
 **Git** is a **distributed version control system** that tracks changes in files and coordinates work on those files among multiple people. It was created by Linus Torvalds in 2005 for the development of the Linux kernel. Git is designed to handle everything from small to very large projects with speed and efficiency.
 
@@ -46,7 +46,7 @@ VS Code offers a range of features that make it a powerful tool for developers:
 5. **Strong Community and Ecosystem**: Git is widely supported with numerous tools, integrations, and platforms like GitHub, GitLab, and Bitbucket, enhancing its functionality and usability.
     
 
-### What is Python?
+## What is Python?
 
 Python is a **high-level, interpreted programming language** known for its simplicity, readability, and versatility. It was created by **Guido van Rossum** in the late 1980s and first released in 1991. Python is widely used across various domains, including web development, data science, artificial intelligence, automation, and more.
 
