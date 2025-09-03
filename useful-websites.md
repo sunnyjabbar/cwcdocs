@@ -1,2 +1,2 @@
 - [Markdown Guide](https://www.markdownguide.org/)
-- [Windows Packet Manager](https://learn.microsoft.com/en-us/windows/package-manager/winget/)
+- [Windows Package Manager](https://learn.microsoft.com/en-us/windows/package-manager/winget/)
