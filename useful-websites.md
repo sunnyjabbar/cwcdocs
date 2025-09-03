@@ -3,4 +3,3 @@
 - [Windows Package Manager](https://learn.microsoft.com/en-us/windows/package-manager/winget/)
 - [Code Academy](https://www.codecademy.com/)
 - [Know It All Ninja](https://www.knowitallninja.com/)
-- 
