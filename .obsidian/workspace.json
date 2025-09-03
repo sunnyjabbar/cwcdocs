@@ -155,7 +155,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python.md",
+                "file": "faqs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -170,7 +170,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "python"
+              "title": "faqs"
             }
           }
         ],
@@ -335,6 +335,9 @@
   },
   "active": "1f306dee46d05773",
   "lastOpenFiles": [
+    "git.md",
+    "faqs.md",
+    "python.md",
     "vscode.md",
     "README.md",
     "python/app.py",
@@ -342,11 +345,8 @@
     "computer-setup.md",
     "winget.md",
     "markdown.md",
-    "git.md",
     "[Use.md",
     "useful-websites.md",
-    "faqs.md",
-    "python.md",
     "Untitled.canvas"
   ]
 }

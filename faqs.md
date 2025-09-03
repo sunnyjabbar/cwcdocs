@@ -1,4 +1,5 @@
-What is a Markup Language?
+### What is a Markup Language?
+
 A **markup language** is a system for formatting and arranging the elements in a document using tags. These tags are used to define the structure and presentation of the document, making it easier for both humans and computer programs to understand and process the content.
 Common Markup Languages
 
@@ -28,11 +29,11 @@ VS Code offers a range of features that make it a powerful tool for developers:
     
 - **Customization**: Users can customize the editor's appearance and behavior through settings, themes, and keyboard shortcuts. Profiles allow users to create and switch between different sets of customizations.
 
-What is Git?
+### What is Git?
 
 **Git** is a **distributed version control system** that tracks changes in files and coordinates work on those files among multiple people. It was created by Linus Torvalds in 2005 for the development of the Linux kernel. Git is designed to handle everything from small to very large projects with speed and efficiency.
 
-Key Features of Git
+#### Key Features of Git
 
 1. **Distributed Version Control**: Each developer has a full copy of the repository, including its entire history. This allows for offline work and decentralized collaboration.
     
@@ -45,23 +46,7 @@ Key Features of Git
 5. **Strong Community and Ecosystem**: Git is widely supported with numerous tools, integrations, and platforms like GitHub, GitLab, and Bitbucket, enhancing its functionality and usability.
     
 
-Git Commands
-
-Here are some frequently used Git commands:
-
-- _git init_: Initializes a new Git repository.
-    
-- _git clone [URL]_: Clones an existing repository from a URL.
-    
-- _git add [file]_: Adds a file to the staging area.
-    
-- _git commit -m [commit message]_: Commits the staged changes with a message.
-    
-- _git status_: Shows the status of changes as untracked, modified, or staged.
-    
-- _git log_: Shows the commit history for the repository
-
-What is Python?
+### What is Python?
 
 Python is a **high-level, interpreted programming language** known for its simplicity, readability, and versatility. It was created by **Guido van Rossum** in the late 1980s and first released in 1991. Python is widely used across various domains, including web development, data science, artificial intelligence, automation, and more.
 
