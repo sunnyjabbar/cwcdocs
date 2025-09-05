@@ -82,9 +82,9 @@ else:
 	print("conditon is false")
 
 # elif statement
-if condition = true:
+if condition == true:
 	print("condition is true")
-elif condition2 = true:
+elif condition2 == true:
 	print("conditon2 is true")
 else:
 	print("conditon is false")
