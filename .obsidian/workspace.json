@@ -155,7 +155,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "useful-websites.md",
+                "file": "python.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -170,7 +170,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "useful-websites"
+              "title": "python"
             }
           }
         ],
@@ -335,13 +335,13 @@
   },
   "active": "1f306dee46d05773",
   "lastOpenFiles": [
-    "python.md",
     "useful-websites.md",
+    "README.md",
+    "python.md",
     "[Use.md",
     "faqs.md",
     "git.md",
     "vscode.md",
-    "README.md",
     "python/app.py",
     "python",
     "computer-setup.md",

@@ -23,7 +23,6 @@ print(float_num) # result is 100.0
 # Checking Data Types
 pi = 3.14159
 type(pi) #result is float
-
 ```
 
 ### Print function
@@ -49,7 +48,6 @@ print(f"My name is {forename} {surname}")
 
 # input statement
 Input("What's your name?\n")
-
 ```
 
 ### Operators
@@ -60,4 +58,44 @@ Input("What's your name?\n")
 10 * 20 # multiply
 20 / 10 # divide
 
+# Assignment Operator
+name = forename + surname
+
+# Comparison Operator
+name == forename 
+grade > 90
+grade >= 90
+grade < 90
+grade <= 90
+```
+
+### IF Statement
+```python
+# if statement
+if condition == true:
+	print("condition is true")
+
+# if else statement
+if condition == true:
+	print("condition is true")
+else:
+	print("conditon is false")
+
+# elif statement
+if condition = true:
+	print("condition is true")
+elif condition2 = true:
+	print("conditon2 is true")
+else:
+	print("conditon is false")
+
+# Example
+if grade == 100:
+	print("fantastic full marks")
+elif grade > 90 and < 100:
+	print("excellent grade 8")
+elif grade > 80 and < 90:
+	print("passed")
+else:
+	print("bad luck, better luck next time")
 ```
